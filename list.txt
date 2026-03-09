@@ -1,4 +1,3 @@
-
 Popcorn
 Ringoz
 Cupcakes
@@ -13,3 +12,8 @@ Salt
 Ketchup
 Rice
 Onions
+Dettol
+Jik
+Soap
+Air freshner
+Vim
